@@ -206,3 +206,7 @@ The key insight: **measure and experiment**. Start with a baseline, add depth in
 
 Happy learning!
 
+---
+
+**GitHub Repository**: [https://github.com/TalhaShakee/neural-network-depth-tutorial](https://github.com/TalhaShakee/neural-network-depth-tutorial)
+

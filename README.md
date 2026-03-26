@@ -2,6 +2,8 @@
 
 A comprehensive tutorial exploring how the depth of Multi-Layer Perceptrons (MLPs) affects learning performance and generalization.
 
+**GitHub Repository**: [https://github.com/TalhaShakee/neural-network-depth-tutorial](https://github.com/TalhaShakee/neural-network-depth-tutorial)
+
 ## Overview
 
 This tutorial shows the practical experimentation that **deeper networks don't always perform better** - the optimal depth depends on task complexity, data quantity, and computational resources.
